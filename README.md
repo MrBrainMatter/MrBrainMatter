@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Proxies
 - 📫 How to reach me IDK
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I'm making the offical David Doodle Video Game
+- ⚡ Fun fact: I mainly use Gamemaker Studio 2
 
 <!---
 MrBrainMatter/MrBrainMatter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
